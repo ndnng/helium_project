@@ -6,6 +6,7 @@ Simulations of the Helium Atoms in Two Excited States
 Tung D. Nguyen and Nhan D. Nguyen 
 
 Instructor: James Brown, Ph.D.
+
 Wabash College, Indiana
 
 February 2019
